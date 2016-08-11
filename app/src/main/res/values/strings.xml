@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Realm Caching</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_reload">Reload</string>
+    <string name="text_error_loading_repos">Something went wrong when loading the data</string>
+    <string name="text_error_loading_repos_short">Something went wrong</string>
+    <string name="text_no_repos">No repositories found</string>
+</resources>
